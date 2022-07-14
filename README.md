@@ -1,1 +1,1 @@
-# advice_generetor_app
+# advice_generator_app
